@@ -31,8 +31,9 @@ text-transform: uppercase;
 td.buildConfigurationName a.buildTypeName,
 .buildDate {
 font-weight: normal;
-font-size: 0.9em;
+font-size: 0.2em;
 color: #bbb;
+display:none;
 }
 
 td.buildConfigurationName img,
